@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Zion]]></title>
+        <description><![CDATA[Zion]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 16 Jan 2016 20:11:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The End of the Beginning...]]></title>
+            <description><![CDATA[<article><h1>The End of the Beginning...</h1><p>Luke Skywalker Hand</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1449e06-e23d-45c6-9ca0-eaddf2408d07.gif"></article>]]></description>
+            <link>undefinedthe-end-of-the-beginning/index.html</link>
+            <guid isPermaLink="false">0d535ed0-c9e8-4722-9e9f-13e97901b7e5</guid>
+            <pubDate>Sat, 16 Jan 2016 20:11:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
