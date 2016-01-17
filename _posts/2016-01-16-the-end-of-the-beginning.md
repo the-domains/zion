@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-16T20:11:53.313Z'
-dateModified: '2016-01-16T20:11:32.981Z'
+datePublished: '2016-01-16T23:13:35.260Z'
+dateModified: '2016-01-16T20:13:24.323Z'
 title: The End of the Beginning...
 author: []
+sourcePath: _posts/2016-01-16-the-end-of-the-beginning.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-16-the-end-of-the-beginning.md
-published: true
 url: the-end-of-the-beginning/index.html
 _type: Article
 
