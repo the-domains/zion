@@ -1,0 +1,28 @@
+name: Zion
+favicon: null
+layout_spectrum: 0.07431152276694775
+typography_spectrum: 0.04614652437157929
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#fefefe'
+    - '#bbb9be'
+    - '#161115'
+    - '#342c2a'
+    - '#5b544c'
+  brandStrength: 0.5
+  lightness: 0.18618096644058824
+  saturation: 0.9811552884057164
+  rhythmicContrast: 0.4256260150577873
+purpose: []
