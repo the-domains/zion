@@ -1,28 +1,40 @@
-name: Zion
 favicon: null
-layout_spectrum: 0.17253
-typography_spectrum: 0.04614652437157929
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Zion
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#fefefe'
-    - '#bbb9be'
-    - '#161115'
-    - '#342c2a'
-    - '#5b544c'
-  brandStrength: 0.5
-  lightness: 0.18618096644058824
-  saturation: 0.9811552884057164
-  rhythmicContrast: 0.4256260150577873
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.8802363
+  lightness: 0.6836735
+  brandStrength: 0.5
+  brandColors:
+    - '#0F1923'
+    - '#026587'
+    - '#029ACF'
+    - '#88D0D7'
+    - '#D7F1FB'
+  rhythmicContrast: 0.3711063
+typography_spectrum: 0.04614652437157929
+layout_spectrum: 0.2443609
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
